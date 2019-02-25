@@ -13,3 +13,7 @@ Our class was intructed to create a time series visualization using the JavaScri
 The data set that I chose had some very interesting trends. One that is more undestandable, however, is the steady increase of life expectancy over the past century. Because the likes of mordern medicine and lower crime rates, humans have been allowed to extend their lives to greater than ever before. On a slightly more deadly note, after using my application and inspecting the data, there is one year that far trumps all others with the lowest life expectancy over every demographic. 1918.
 
 ## 1918
+This year immediately caught my eye after I was first able to plot the data from my Excel file. After doing research, I found out that 1918 was the year with the largest influenza outbreak in history with 33% of the world population contracting the disease. To find out more information on this event, follow this [link](https://www.cdc.gov/features/1918-flu-pandemic/index.html).
+
+## Conclusion
+This project held many roadblocks for me and caused me to not complete this project as far in advance as I would have liked. However, I have gained a large amount of experience in D3 and a refresher in JavaScript.
