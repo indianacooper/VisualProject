@@ -1,3 +1,5 @@
+[![ScreenShot](https://github.com/indianacooper/VisualProject/blob/master/imgs/projectscreenshot.PNG)](https://youtu.be/jfGTs3MnNHM)
+
 [--------------------------------------------------CLICK HERE FOR PROJECT------------------------------------------------------------](https://indianacooper.github.io/)
 
 # VisualProject
