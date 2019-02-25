@@ -1,5 +1,6 @@
 [![ScreenShot](https://github.com/indianacooper/VisualProject/blob/master/imgs/projectscreenshot.PNG)](https://youtu.be/jfGTs3MnNHM)
 Click on the above screenshot to be redirected to the video, or if you are unable, click [here](https://youtu.be/jfGTs3MnNHM).
+
 [--------------------------------------------------CLICK HERE FOR PROJECT------------------------------------------------------------](https://indianacooper.github.io/)
 
 # VisualProject
